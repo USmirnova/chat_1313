@@ -1,34 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e612168a-504e-4b70-8455-f02b69bec0f2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_1313_for_marge_homeworks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="968e25bd-8f6a-4440-92a9-d238643ba0c9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/chat_1313.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat_1313.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chat_1313_for_marge_homeworks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313/client/Client$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chat_1313/client/Client$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313/client/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chat_1313/client/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313/server/Server$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chat_1313/server/Server$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313/server/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chat_1313/server/Server.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_28102021_dz_laba_8/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_28102021_dz_laba_8/client/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_28102021_dz_laba_8/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_28102021_dz_laba_8/server/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_28102021_dz_laba_8/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_for_marge_homeworks/client/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_for_marge_homeworks/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_for_marge_homeworks/server/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_for_marge_homeworks/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/chat_1313_for_marge_homeworks/server/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName/client/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName/server/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName/server/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName2/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName2/client/Client$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName2/client/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName2/server/Server$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/newName2/server/Server.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/client/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/client/Client.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/server/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/User.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="20KFVlq5yDnaYOZEBY4nDfeO0gt" />
+  <component name="ProjectId" id="20Mb7uot2J160J4I7wCUtMYeOdc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,7 +57,7 @@
   <component name="RunManager" selected="Application.Client">
     <configuration name="Client" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="client.Client" />
-      <module name="chat_1313_for_marge_homeworks" />
+      <module name="chat_1313" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="client.*" />
@@ -55,7 +70,7 @@
     </configuration>
     <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="server.Server" />
-      <module name="chat_1313_for_marge_homeworks" />
+      <module name="chat_1313" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="server.*" />
@@ -80,11 +95,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e612168a-504e-4b70-8455-f02b69bec0f2" name="Changes" comment="" />
-      <created>1635785398619</created>
+      <changelist id="968e25bd-8f6a-4440-92a9-d238643ba0c9" name="Changes" comment="" />
+      <created>1635857239657</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1635785398619</updated>
+      <updated>1635857239657</updated>
     </task>
     <servers />
   </component>
@@ -98,5 +113,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
